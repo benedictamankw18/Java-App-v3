@@ -12,9 +12,11 @@ JAR files manifest file (MANIFEST.MF).
 To run the project from the command line, go to the dist folder and
 type the following:
 <br/><br/>
-| code | version number|
-|------|---------------|
-|<code>java -jar "try.jar"</code>| --version 3(added title)|
+
+| code                             |   version number       |
+|----------------------------------|------------------------|
+| <code>java -jar "try.jar"</code> |--version 3(added title)|
+
 <br/><br/>
 To distribute this project, zip up the dist folder (including the lib folder)
 and distribute the ZIP file.
